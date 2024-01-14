@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-Commerce.Design/static/css/main.dd02eec4.css",
+    "main.js": "/E-Commerce.Design/static/js/main.abcd2e50.js",
+    "static/media/laptops.png": "/E-Commerce.Design/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/E-Commerce.Design/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/item.png": "/E-Commerce.Design/static/media/item.ddd16597d0c38b8366e1.png",
+    "static/media/slider1.png": "/E-Commerce.Design/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/mobile2.png": "/E-Commerce.Design/static/media/mobile2.1b3cf13086e809bb8d7d.png",
+    "static/media/mobile1.png": "/E-Commerce.Design/static/media/mobile1.1997f77f2ce6b9677dc6.png",
+    "static/media/mobile.png": "/E-Commerce.Design/static/media/mobile.1c4bc892a60e36742151.png",
+    "static/media/labtop.png": "/E-Commerce.Design/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/avatar.png": "/E-Commerce.Design/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/brand3.png": "/E-Commerce.Design/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/E-Commerce.Design/index.html",
+    "main.dd02eec4.css.map": "/E-Commerce.Design/static/css/main.dd02eec4.css.map",
+    "main.abcd2e50.js.map": "/E-Commerce.Design/static/js/main.abcd2e50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd02eec4.css",
+    "static/js/main.abcd2e50.js"
+  ]
+}
