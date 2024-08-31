@@ -6,7 +6,7 @@ import rate from "../../images/rate.png"
 import { Link } from 'react-router-dom';
 function ProductCard() {
     return (
-        <Col xs="6" sm="6" md="4" lg="3" className='d-flex'>
+        <Col xs="12" sm="12" md="4" lg="3" className='d-flex'>
 
             <Card style={{ width: '100%',height:"350px",borderRadius:"10px" ,border:"none",backgroundColor:"#FFFFFF",boxShadow:"0 2px 0 rgba(151,151,151,0.5)" }} className='my-2'>
                 <Link to="/AllProducts/:id" style={{textDecoration:"none"}}>
