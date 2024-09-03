@@ -6,7 +6,7 @@ import deletion from "../../images/deletion.png"
 const CartItem = () => {
 
     return (
-        <Col xs="12" className="cart-item-body my-2 d-flex px-2">
+        <Col xs="12" sm="12" className="cart-item-body my-2 d-flex px-2">
 
         <img width="160px" height="197px" src={mobile} alt="" />
         <div className="w-100">
